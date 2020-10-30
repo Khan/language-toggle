@@ -1,6 +1,6 @@
 {
     "name": "Khan Academy Language Toggle",
-    "version": "0.1",
+    "version": "1.0",
     "description": "Quickly change the language of a page on Khan Academy",
     "permissions": ["declarativeContent", "storage", "tabs"],
     "options_page": "options.html",

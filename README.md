@@ -41,3 +41,6 @@ Can I offer code contributions?
 
 Is this extension available in the Chrome Store?
 - It has been submitted and is under review.  When it is approved we will update this readme.
+
+The page didn't change while I was watching a video?
+- Sometime pages don't refresh properly.  Going back to the lesson page before changing languages usually resolves it.
