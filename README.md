@@ -1,5 +1,7 @@
 The Khan Academy Language Toggle is a tool to allow a user to quickly switch between languages on khanacademy.org.  This chrome extension shows a list of languages and with a click it will take you to the same content in another language.
 
+This extension can be installed from the Chrome Store: https://chrome.google.com/webstore/detail/ohnjbklmpmcaagafdohmngealmpojabi
+
 Khan Academy is a non-profit educational organization that provides free videos, articles and exercises in over 36 languages.
 
 The list of languages is customizable.  Hitting the "Language Options" button will bring up a list of languages to pick from.  Select the languages you want to see in the extension, and deselect languages you don't want to see.
